@@ -1,0 +1,14 @@
+Deposited amount 500.0
+Deposited amount 200.0
+Deposited amount 2000.0
+Deposited amount 200.0
+Deposited amount 500.0
+Deposited amount 5230.0
+Deposited amount 10.0
+Deposited amount 10.0
+Withdrew amount 200.0
+Transferred amount 500.0
+Deposited amount 500.0
+Deposited amount 200.0
+Withdrow amount 2000.0
+Account Deleted 

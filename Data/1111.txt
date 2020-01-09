@@ -1,0 +1,26 @@
+Resived amount 20.0
+Deposited amount 200.0
+Withdrew amount 200.0
+Deposited amount 200.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 50.0
+Transferred amount 300.0
+Withdrew amount 150.0
+Deposited amount 51.0
+Withdrew amount 10000.0
+Withdrew amount 10000.0
+Withdrew amount 10000.0
+Deposited amount 30000.0
+Transferred amount 10000.0
+Withdrew amount 1511.0
+Deposited amount 5100.0
+Withdrow amount 2100.0
+Deposited amount 100.0
+Transferred amount 1200.0
+Withdrew amount 300.0
+Deposited amount 200.0
+Withdrow amount 300.0
+Account Deleted 

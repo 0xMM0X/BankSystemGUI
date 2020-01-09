@@ -1,0 +1,15 @@
+received amount 50.0
+received amount 50.0
+received amount 50.0
+received amount 50.0
+received amount 0.0
+received amount 50.0
+received amount 300.0
+received amount 10000.0
+received amount 1200.0
+Deposited amount 50.0
+Transferred amount 30.0
+Withdrew amount 400.0
+Deposited amount 300.0
+Withdrow amount 500.0
+Account Deleted 
